@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
   def home
-    current_user.email
+    #current_user.email
   end
 end

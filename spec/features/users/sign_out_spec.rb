@@ -1,3 +1,5 @@
+require 'pry'
+
 # Feature: Sign out
 #   As a user
 #   I want to sign out
